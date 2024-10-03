@@ -62,4 +62,45 @@ The dataset used for this analysis is `student_mat.csv`, which contains the foll
 - **G2**: Second period grade
 - **G3**: Final grade
 
+## Key Findings
+
+- There is a strong correlation between study time and final grades.
+- Female students generally perform better than male students.
+- Higher parental education levels are associated with better student performance.
+- Students with extracurricular activities tend to have higher final grades.
+
+## Visualizations
+
+The analysis includes the following visualizations:
+
+- **Distribution of Final Grades (G3)**: 
+  - Histogram and KDE plot showing the distribution of final grades.
+  
+- **Boxplot of Final Grades by Gender**: 
+  - Comparison of final grades by gender.
+  
+- **Pair Plot of Grades**: 
+  - Scatter plot matrix to visualize relationships between G1, G2, and G3.
+  
+- **Average Final Grades by Mother's Job**: 
+  - Bar plot showing average grades based on the mother's occupation.
+  
+- **Final Grades by Study Time**: 
+  - Box plot comparing final grades based on weekly study time.
+  
+- **Scatter Plot of Study Time vs. Final Grades**: 
+  - Visualizing the relationship between study time and final grades.
+  
+- **Average Final Grades by Family Size**: 
+  - Bar plot comparing average grades based on family size.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 
