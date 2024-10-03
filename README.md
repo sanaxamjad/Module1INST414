@@ -1,4 +1,4 @@
-# Student Performance Analysis
+# Student Performance Analysis ✏️
 
 This project analyzes the student performance dataset to explore various factors affecting students' final grades. It uses Python libraries such as Pandas, Matplotlib, and Seaborn to load, clean, visualize, and analyze the data.
 
@@ -97,10 +97,3 @@ The analysis includes the following visualizations:
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
